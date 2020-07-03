@@ -1,4 +1,13 @@
-### Hi there 👋
+**👋 Hi! I'm Leonard, an 18-year-old software engineer who loves to create open-source projects & explore new technologies.**
+
+## 💻 What I'm currently working on
+I'm currently working on [0analytics](https://github.com/0analytics), a service that optimizes your website based on its analytics.
+Alongside 0analytics, I'm building [Base](https://github.com/l2ig/base), a conceptual framework for easier server- & client-side communication. I'd love to hear your feedback on it!
+
+## ☕ Get in touch
+* Twitter: https://twitter.com/leoffard
+* Website: https://linters.de
+* Dev.to: https://dev.to/leonard
 
 <!--
 **l2ig/l2ig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
