@@ -1,4 +1,4 @@
-**👋 Hi! I'm Leonard, an 18-year-old software engineer who loves to create open-source projects & explore new technologies.**
+**👋 Hi! I'm Leonard, an 19-year-old software engineer who loves to create open-source projects & explore new technologies.**
 
 ## 💻 What I'm currently working on
 I'm currently working on [0analytics](https://github.com/0analytics), a service that optimizes your website based on its analytics.
